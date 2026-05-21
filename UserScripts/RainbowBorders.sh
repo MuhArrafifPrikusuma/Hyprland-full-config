@@ -6,7 +6,7 @@ COLOR_BLUE="0xff007fff"   # Electric Azure Blue
 COLOR_CYAN="0xff00f0ff"   # Neon Cyan
 
 # A slightly relaxed interval rate (roughly 20 updates per second)
-ANIMATION_SPEED=0.03
+ANIMATION_SPEED=0.08
 
 ANGLE=0
 
