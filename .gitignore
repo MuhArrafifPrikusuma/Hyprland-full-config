@@ -1,0 +1,7 @@
+# Ignore VS Code / Electron cache data
+**/*Cache*
+**/Code/Cache/
+.vscode/
+node_modules/
+.DS_Store
+../*
